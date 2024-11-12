@@ -1,4 +1,4 @@
-# My Python Git Repository
+# Python Repository
 
 ## Description
 This repository contains a collection of Python scripts and modules that I have developed. The purpose of this repository is to showcase my Python programming skills and provide a centralized location for my personal projects.
