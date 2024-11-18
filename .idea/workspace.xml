@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Arithemetic.executor": "Run",
     "Python.DataTypes.executor": "Run",
     "Python.TextToSpeech.executor": "Run",
     "Python.__init__.executor": "Run",
@@ -59,7 +60,29 @@
       <recent name="D:\python-codes\Python-Codes\helloWorld" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DataTypes">
+  <component name="RunManager" selected="Python.Arithemetic">
+    <configuration name="Arithemetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-codes" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Codes/operators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Codes/operators/Arithemetic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-codes" />
       <option name="ENV_FILES" value="" />
@@ -128,6 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Arithemetic" />
         <item itemvalue="Python.DataTypes" />
         <item itemvalue="Python.TextToSpeech" />
         <item itemvalue="Python.HelloWorld" />
@@ -246,7 +270,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731434285445</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commits">
+      <option name="closed" value="true" />
+      <created>1731434705414</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731434705414</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commits">
+      <option name="closed" value="true" />
+      <created>1731434714521</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731434714521</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commits">
+      <option name="closed" value="true" />
+      <created>1731434748719</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731434748719</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
