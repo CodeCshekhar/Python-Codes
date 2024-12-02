@@ -60,6 +60,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python-codes\Python-Codes\GHG" />
       <recent name="D:\python-codes\Python-Codes\helloWorld" />
     </key>
   </component>
@@ -121,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Codes/AutoGenerator.py" />
+      <option name="SCRIPT_NAME" value="D:\python-codes\Python-Codes\GHG\AutoGenerator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -408,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733139358712</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Commit #100">
+      <option name="closed" value="true" />
+      <created>1733139527076</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1733139527076</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
