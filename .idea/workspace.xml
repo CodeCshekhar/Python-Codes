@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e221604d-af1b-4cc5-886d-1289249d1741" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e221604d-af1b-4cc5-886d-1289249d1741" name="Changes" comment="Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +27,12 @@
     &quot;assignee&quot;: &quot;CodeCshekhar&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CodeCshekhar/Python-Codes.git",
-    "accountId": "41e945f6-18dc-493f-8170-d37de882b277"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CodeCshekhar/Python-Codes.git&quot;,
+    &quot;accountId&quot;: &quot;41e945f6-18dc-493f-8170-d37de882b277&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -46,53 +44,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Arithemetic.executor": "Run",
-    "Python.Assignment.executor": "Run",
-    "Python.AutoGenerator.executor": "Run",
-    "Python.Chip8Interpreter.executor": "Run",
-    "Python.DataTypes.executor": "Run",
-    "Python.QuotedAndStringSlicing.executor": "Run",
-    "Python.QuotedStrings.executor": "Run",
-    "Python.StringFunctions.executor": "Run",
-    "Python.TextToSpeech.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Arithemetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AutoGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chip8Interpreter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QuotedAndStringSlicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QuotedStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TextToSpeech.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python-codes\Python-Codes\GHG" />
       <recent name="D:\python-codes\Python-Codes\helloWorld" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.StringFunctions">
-    <configuration name="AutoGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-codes" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Codes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\python-codes\Python-Codes\GHG\AutoGenerator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.SimpleCalculatorApp">
     <configuration name="Chip8Interpreter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-codes" />
       <option name="ENV_FILES" value="" />
@@ -107,6 +83,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Codes/C/Chip8Interpreter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimpleCalculatorApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-codes" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Codes/Calculator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Codes/Calculator/SimpleCalculatorApp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,28 +135,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringSlicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-codes" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Codes/Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\python-codes\Python-Codes\Strings\StringSlicing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="TextToSpeech" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-codes" />
       <option name="ENV_FILES" value="" />
@@ -181,13 +157,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="calculator_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-codes" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Codes/Calcultor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Codes/Calcultor/calculator_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SimpleCalculatorApp" />
+        <item itemvalue="Python.calculator_app" />
         <item itemvalue="Python.StringFunctions" />
-        <item itemvalue="Python.QuotedAndStringSlicing" />
         <item itemvalue="Python.Chip8Interpreter" />
         <item itemvalue="Python.TextToSpeech" />
-        <item itemvalue="Python.AutoGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +485,79 @@
       <option name="project" value="LOCAL" />
       <updated>1733469942153</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470860288</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470860288</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470874201</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470874201</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470881381</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470881381</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470889213</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470889213</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470896656</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470896656</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470903952</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470903952</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470911575</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470911575</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470918029</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470918029</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733470924376</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470924376</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
